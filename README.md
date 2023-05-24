@@ -33,4 +33,5 @@ Numbers: processed several thousands of transactions across 6 months of transact
 <br>
 Skills used: Solana blockchain, node.js
 
-# Work for me, collaborate with me, hire me, or stop stalking me and do something useful with your time.
+# Work for me, collaborate with me, hire me, or go do something useful with your time.
+email: wbian@g.ucla.edu
