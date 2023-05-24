@@ -1,4 +1,4 @@
-# Hi, welcome to my github account.
+# Hi, welcome to my Github account.
 
 ## I am a student at UCLA studying Data Science (Technically the major is called Data Theory but anytime I tell someone that they get confused). I was previously at UCSD studying Computer Science with Specialization in Bioinformatics.
 
@@ -8,7 +8,7 @@ UCLA GPA - 3.932
 UCSD GPA - 3.936
 <br>
 
-## I can code the basics in lots of languages, and I'm good at web development and working with blockchains, and I will be good at machine learning. 
+## Blockchain, machine learning, data scarping and analysis, lots of languages programming languages 
 
 ## Check out my repositories for the projects that I've built. Here are some featured projects: 
 
