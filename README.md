@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**Bian-Wesley/Bian-Wesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, welcome to my github account.
 
 ## I am a student at UCLA studying Data Science (Technically the major is called Data Theory but anytime I tell someone that they get confused). I was previously at UCSD studying Computer Science with Specialization in Bioinformatics.
@@ -27,7 +10,7 @@ UCSD GPA - 3.936
 
 ## I can code the basics in lots of languages, and I'm good at web development and working with the Solana blockchain, and I will be good soon at machine learning. 
 
-## Check out my repositories for the projects that I've built. 
+## Check out my repositories for the projects that I've built. Here are some featured projects: 
 
 ### Purebet.io
 What: Decentralized sports betting exchange and liquidity aggregator on the Solana blockchain. 
@@ -49,3 +32,5 @@ What: Processed entire transaction history of Purebet onchain program (smart con
 Numbers: processed several thousands of transactions across 6 months of transaction history
 <br>
 Skills used: Solana blockchain, node.js
+
+# Work for me, collaborate with me, hire me, or stop stalking me and do something useful with your time.
