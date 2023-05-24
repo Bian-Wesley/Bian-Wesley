@@ -19,10 +19,10 @@ Numbers: Over $180,000 wagered, profitable
 <br>
 Skills used: Solana blockchain (smart contract + reading from + writing to), AWS (dynamodb and lambda), node.js, Rust, python, react, Google Apps Script, HTML/CSS/JS
 
-### cnft airdrop
+### cNFT airdrop
 What: Extracted addresses of users who interacted with several protocols on Solana by looking through Solana transaction histories, sent compressed NFTS (newest type of NFTs on Solana) with crossmint API
 <br>
-Numbers: >5000 addresses scraped, 500,000 transactions processed
+Numbers: Over 5000 addresses scraped, 500,000 transactions processed
 <br>
 Skills used: Solana blockchain, crossmint API, node.js
 
