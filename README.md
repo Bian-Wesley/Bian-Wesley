@@ -8,7 +8,7 @@ UCLA GPA - 3.932
 UCSD GPA - 3.936
 <br>
 
-## I can code the basics in lots of languages, and I'm good at web development and working with the Solana blockchain, and I will be good soon at machine learning. 
+## I can code the basics in lots of languages, and I'm good at web development and working with blockchains, and I will be good at machine learning. 
 
 ## Check out my repositories for the projects that I've built. Here are some featured projects: 
 
