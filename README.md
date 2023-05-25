@@ -8,7 +8,7 @@ UCLA GPA - 3.932
 UCSD GPA - 3.936
 <br>
 
-## Blockchain, machine learning, data scarping and analysis, lots of languages programming languages 
+## Blockchain, machine learning, data scraping and analysis, lots of languages programming languages 
 
 ## Check out my repositories for the projects that I've built. Here are some featured projects: 
 
