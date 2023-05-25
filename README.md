@@ -15,7 +15,7 @@ UCSD GPA - 3.936
 ### Purebet.io
 What: Decentralized sports betting exchange and liquidity aggregator on the Solana blockchain. 
 <br>
-Numbers: Over $180,000 wagered, profitable
+Numbers: Over $170,000 wagered, profitable
 <br>
 Skills used: Solana blockchain (smart contract + reading from + writing to), AWS (dynamodb and lambda), node.js, Rust, python, react, Google Apps Script, HTML/CSS/JS
 
