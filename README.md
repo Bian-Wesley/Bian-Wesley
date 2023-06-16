@@ -2,13 +2,12 @@
 
 ## I am a student at UCLA studying Data Science (Technically the major is called Data Theory but anytime I tell someone that they get confused). I was previously at UCSD studying Computer Science with Specialization in Bioinformatics.
 
-### several years of work just to get these numbers:
 UCLA GPA - 3.932
 <br>
 UCSD GPA - 3.936
 <br>
 
-## Skills: Blockchain, machine learning, data scraping and analysis, 15 progmming languages, (spelling isn't one of my skills)
+## Skills: Blockchain, machine learning, data scraping and analysis, 15 programming languages
 
 ## Check out my repositories for the projects that I've built. Here are some featured projects: 
 
