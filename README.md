@@ -1,6 +1,6 @@
 # Hi, welcome to my Github account.
 
-## I am a student at UCLA studying Data Science (Technically the major is called Data Theory but anytime I tell someone that they get confused). I was previously at UCSD studying Computer Science with Specialization in Bioinformatics.
+## I am a student at UCLA studying Data Science. I was previously at UCSD studying Computer Science with Specialization in Bioinformatics.
 
 UCLA GPA - 3.932
 <br>
@@ -14,7 +14,7 @@ UCSD GPA - 3.936
 ### Purebet.io
 What: Decentralized sports betting exchange and liquidity aggregator on the Solana blockchain. 
 <br>
-Numbers: Over $170,000 wagered, profitable
+Numbers: Over $280,000 wagered, profitable
 <br>
 Skills used: Solana blockchain (smart contract + reading from + writing to), AWS (dynamodb and lambda), node.js, Rust, python, react, Google Apps Script, HTML/CSS/JS
 
@@ -32,5 +32,4 @@ Numbers: processed several thousands of transactions across 6 months of transact
 <br>
 Skills used: Solana blockchain, node.js
 
-# Work for me, collaborate with me, hire me, or give me a billion dollars
-email: wbian@g.ucla.edu
+# email: wbian@g.ucla.edu
